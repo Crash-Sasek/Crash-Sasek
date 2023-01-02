@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Crash
+- 👋 Hi, I’m Andrew!
 - 👀 I’m interested in software development / game development
 - 🌱 I’m currently learning Python / Computer Science
 - 💞️ I’m looking to collaborate on small projects. I'm still very new to this and am hoping to build experience.
