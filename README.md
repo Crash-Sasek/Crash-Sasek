@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew!
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development and video games
 - 🌱 I’m currently learning Go, C, Computer Science Fundementals
 - 💞️ I’m looking to collaborate on small projects. I'm still very new to this and am hoping to build experience.
 - 📫 How to reach me ... 
